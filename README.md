@@ -14,7 +14,7 @@
 
 - 📄 [Know about my experiences](https://drive.google.com/file/d/1gqMTyhibmtPR_JOA-N_bQs-uAGk0YcXR/view?usp=sharing)
 
-- ⚡ Fun fact: i'm a huge gaming nerd :computer:.
+- ⚡ Fun fact: i'm a huge gaming nerd :video_game:.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
