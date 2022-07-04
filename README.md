@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Convolutional Neural Networks.](https://github.com/roysiddharth/fingerprint-reconstruction-autoencoder)
 
-- 🌱 I’m currently learning Django.
+- 🌱 I’m currently learning Django & TensorFlow.
 
 - 👯 I’m looking to collaborate with other Data Scientists and ML engineers to explore the limits of Artificial Intelligence.
 
