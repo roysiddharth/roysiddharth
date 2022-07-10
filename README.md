@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Deep Learning projects.](https://github.com/roysiddharth/fingerprint-reconstruction-autoencoder)
 
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 I’m currently learning HTML, CSS and Django.
 
 - 👯 I’m looking to collaborate with other Data Scientists and ML engineers to explore the limits of Artificial Intelligence.
 
