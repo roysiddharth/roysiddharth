@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate with other Data Scientists and ML engineers to explore the limits of Artificial Intelligence.
 
-- 💬 Ask me about Natural Language Processing & Data Science.
+- 💬 Ask me about Artificial Intelligence, Machine Learning and Data Science.
 
 - 📫 How to reach me: **siddharth.roy22@gmail.com**
 
