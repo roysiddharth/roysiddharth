@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **siddharth.roy22@gmail.com**
 
-- 📄 [Know about my experiences](https://www.canva.com/design/DAFKzfe-ct8/uFK4VCntkHUWE5h6R5FLJw/view?utm_content=DAFKzfe-ct8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 [Know about my experiences](https://www.canva.com/design/DAFLG4HCr8c/rIJJrYHIG99GLXBed41jAA/view?utm_content=DAFLG4HCr8c&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 - ⚡ Fun fact: I'm a huge gaming nerd. :video_game:
 
