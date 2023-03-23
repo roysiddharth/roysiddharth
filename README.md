@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Siddhartha. 👋</h1>
 <h3 align="center">Data Science | Machine Learning | Python</h3>
 
-<img align="right" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qxmwlh3xwqwiy1a3l8dh2kwtqz7rfoivn4je5z1u&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on Cybersecurity.
 
