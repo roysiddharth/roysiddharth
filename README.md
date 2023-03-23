@@ -3,11 +3,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qxmwlh3xwqwiy1a3l8dh2kwtqz7rfoivn4je5z1u&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently working on Cybersecurity.
+- 🔭 I’m currently working on Cybersecurity and Backend Flask Development.
 
 - 🌱 I’m currently learning Data Structures & Algorithms.
 
-- 👯 I’m looking to collaborate with other Data Scientists and ML engineers to explore the limits of Artificial Intelligence.
+- 👯 I’m looking to collaborate with other Data Scientists, ML engineers and Software Devs to explore the limits of Artificial Intelligence.
 
 - 💬 Ask me about Artificial Intelligence, Machine Learning and Data Science.
 
