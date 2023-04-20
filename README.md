@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **siddhartha.roy@corestrat.ai**
 
-- 📄 [Know about my experiences](https://www.canva.com/design/DAFNgArEjyc/1ZompUouktYYEs91QbbunQ/view?utm_content=DAFNgArEjyc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 [Know about my experiences](https://drive.google.com/file/d/1pQFo069QYv4MK0wXEeMTB2jed6WVhEgL/view?usp=share_link)
 
 - ⚡ Fun fact: I'm a huge gaming nerd. :video_game:
 
