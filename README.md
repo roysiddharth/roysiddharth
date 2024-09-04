@@ -1,19 +1,13 @@
 <h1 align="center">Hi, I am Siddhartha. 👋</h1>
-<h3 align="center">Data Science | Machine Learning | Python</h3>
+<h3 align="center">SWE | Backend | Python</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qxmwlh3xwqwiy1a3l8dh2kwtqz7rfoivn4je5z1u&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently working on Cybersecurity and Backend Flask Development.
+- 🔭 My current tech stack is Python & MySQL.
 
-- 🌱 I’m currently learning Data Structures & Algorithms.
+- 🌱 I’m currently learning MERN (MongoDB, Express.js, React.js, Node.js).
 
-- 👯 I’m looking to collaborate with other Data Scientists, ML engineers and Software Devs to explore the limits of Artificial Intelligence.
-
-- 💬 Ask me about Artificial Intelligence, Machine Learning and Data Science.
-
-- 📫 How to reach me: **siddhartha.roy@corestrat.ai**
-
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1pQFo069QYv4MK0wXEeMTB2jed6WVhEgL/view?usp=share_link)
+- 💬 Ask me about Backend development, System design, Database modelling.
 
 - ⚡ Fun fact: I'm a huge gaming nerd. :video_game:
 
