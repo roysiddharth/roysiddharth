@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 My current tech stack is Python & MySQL.<br>🌱 I’m currently learning MERN (MongoDB, Express.js, React.js, Node.js).<br>💬 Ask me about Backend development, System design, Database modelling.<br>⚡ Fun fact: I'm a huge gaming nerd. 🎮
 
-<img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_roysiddharth_" height="30" width="40" />
+
 
 
 ## 🌐 Socials:
