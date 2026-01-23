@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building the next biggest Agentic Browser on top of a hyper-personalisation engine. Stay tuned!
+Building infra for safe, scalable and glass-box AI!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/roysiddhartha22/) 
