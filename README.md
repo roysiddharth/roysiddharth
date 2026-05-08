@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td><img src="https://sid-readme-stats.vercel.app/api?username=roysiddharth&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /></td>
-    <td><img src="https://sid-readme-stats.vercel.app/api/top-langs/?username=roysiddharth&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" /></td>
+    <td><img src="https://sid-readme-stats.vercel.app/api/top-langs/?username=roysiddharth&theme=tokyonight&hide_border=false&layout=compact&hide=Jupyter%20Notebook" alt="Top Languages" /></td>
     <td><img src="https://streak-stats.demolab.com/?user=roysiddharth&theme=tokyonight&hide_border=false" alt="GitHub Streak" /></td>
   </tr>
 </table>
