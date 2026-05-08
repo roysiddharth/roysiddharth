@@ -41,3 +41,10 @@
 </table>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roysiddharth&theme=tokyo-night)
+
+<table>
+  <tr>
+    <td><img src="https://sid-readme-stats.vercel.app/api/commit-heatmap?username=roysiddharth&theme=tokyonight" alt="Commit Heatmap" /></td>
+    <td><img src="https://sid-readme-stats.vercel.app/api/active-repos?username=roysiddharth&theme=tokyonight" alt="Most Active Repos" /></td>
+  </tr>
+</table>
