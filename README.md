@@ -36,21 +36,6 @@
 
 ---
 
-### Things I've built
-
-<table>
-  <tr>
-    <td><a href="https://github.com/roysiddharth/strays-game"><img src="https://sid-readme-stats.vercel.app/api/pin/?username=roysiddharth&repo=strays-game&theme=tokyonight" /></a></td>
-    <td><a href="https://github.com/roysiddharth/cartesia-plugin"><img src="https://sid-readme-stats.vercel.app/api/pin/?username=roysiddharth&repo=cartesia-plugin&theme=tokyonight" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/roysiddharth/docker-cache-manager"><img src="https://sid-readme-stats.vercel.app/api/pin/?username=roysiddharth&repo=docker-cache-manager&theme=tokyonight" /></a></td>
-    <td><a href="https://github.com/roysiddharth/second-brain-v2"><img src="https://sid-readme-stats.vercel.app/api/pin/?username=roysiddharth&repo=second-brain-v2&theme=tokyonight" /></a></td>
-  </tr>
-</table>
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roysiddharth/roysiddharth/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roysiddharth/roysiddharth/output/github-contribution-grid-snake.svg" />
