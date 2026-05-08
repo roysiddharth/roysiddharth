@@ -1,4 +1,4 @@
-**Builder.** Into game dev, open source, and making things that feel good to use.
+**Builder.** Into artificial intelligence, game dev, open source, and making things that feel good to use.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roysiddhartha22/)
 
