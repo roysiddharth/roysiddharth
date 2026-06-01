@@ -12,6 +12,9 @@
 [![Subscribe on Substack](https://img.shields.io/badge/Subscribe%20on%20Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://theoodnewsletter.substack.com/)
 
 <!-- BLOG-POST-LIST:START -->
+- [why are Gaussians everywhere?](https://theoodnewsletter.substack.com/p/why-are-gaussians-everywhere)
+- [taste is your moat (?)](https://theoodnewsletter.substack.com/p/taste-is-your-moat)
+- [the agi manifesto](https://theoodnewsletter.substack.com/p/the-agi-manifesto)
 <!-- BLOG-POST-LIST:END -->
 
 ---
