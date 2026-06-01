@@ -1,0 +1,24 @@
+name: Latest Substack posts
+
+on:
+  schedule:
+    # Runs every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull latest posts from Substack
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://theoodnewsletter.substack.com/feed"
+          max_post_count: 5
+          commit_message: "Update README with latest Substack posts"

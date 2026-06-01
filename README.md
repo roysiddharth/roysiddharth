@@ -1,6 +1,18 @@
 **Builder.** Into artificial intelligence, game dev, open source, and making things that feel good to use.
 
+[![Substack](https://img.shields.io/badge/Substack-FF6719.svg?logo=substack&logoColor=white)](https://theoodnewsletter.substack.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roysiddhartha22/)
+
+---
+
+### ✍️ The OOD Newsletter
+
+> notes from the edges of AI, culture, human behavior, and what comes next.
+
+[![Subscribe on Substack](https://img.shields.io/badge/Subscribe%20on%20Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://theoodnewsletter.substack.com/)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
