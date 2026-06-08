@@ -5,18 +5,6 @@
 
 ---
 
-### ✍️ The OOD Newsletter
-
-> notes from the edges of AI, culture, human behavior, and what comes next.
-
-[![Subscribe on Substack](https://img.shields.io/badge/Subscribe%20on%20Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://theoodnewsletter.substack.com/)
-
-- [why are Gaussians everywhere?](https://theoodnewsletter.substack.com/p/why-are-gaussians-everywhere)
-- [taste is your moat (?)](https://theoodnewsletter.substack.com/p/taste-is-your-moat)
-- [the agi manifesto](https://theoodnewsletter.substack.com/p/the-agi-manifesto)
-
----
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
